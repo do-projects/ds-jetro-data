@@ -7,7 +7,7 @@
 
 1. **Clone the repository:**
     ```sh
-    git clone <project_repository_path>
+    git clone https://github.com/do-projects/ds-jetro-data
     cd recipe_analysis
     ```
 
